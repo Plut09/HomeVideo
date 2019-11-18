@@ -1,5 +1,5 @@
 {
-  "channel_name": "CommunityChannel",
+  "channel_name": "HomeVideo",
   "plot": "anteprima pagina",
   "fanart": "/Image/metropolis.jpg",
   "thumbnail": "",
@@ -7,7 +7,7 @@
     {
       "title": "Film{italic}",
       "plot": "elenco film",
-      "link": "/0-9_A-Z_info.json",
+      "link": "/Movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
       "submenu":{"search":""}
@@ -15,7 +15,7 @@
     {
       "title": "Serie{italic}",
       "plot": "elenco serie tv",
-      "link": "/Serie_info.json",
+      "link": "/Serie.json",
       "fanart": "",
       "thumbnail": "/Image/serie3.png", 
       "submenu":{"search":""}
@@ -23,7 +23,7 @@
     {
       "title": "Documentari{italic}",
       "plot": "elenco documentari",
-      "link": "/Documentari_info.json",
+      "link": "/Documentari.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
       "submenu":{"search":""}
@@ -31,7 +31,7 @@
     {
       "title": "Cartoon{italic}",
       "plot": "elenco Cartoon",
-      "link": "/Cartoon_info.json",
+      "link": "/Cartoon.json",
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
       "submenu":{"search":""}
