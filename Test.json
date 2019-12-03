@@ -1,15 +1,14 @@
 {
-  "movies_list": [
-    {
-      "title": "", 
-      "tmdb_id": "1418",
-      "year": "2019",
-      "links": [
+  "tvshows_list": [
+    { "title":"",
+      "year":"",
+      "tmdb_id":"",
+      "seasons_list": [
         {
-          "url": "magnet:?xt=urn:btih:A2788A14445FE0469B5280AEFD0F49BC3E5E3FFC",
-          "quality":"FHD"
+          "season": "1",
+          "link": "FILE 4"
         }
       ]
-    }
+    } 
   ]
 }
