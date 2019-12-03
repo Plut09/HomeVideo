@@ -39,7 +39,7 @@
     {
       "title": "test{italic}",
       "plot": "elenco test",
-      "link": "",
+      "link": "/Test.json",
       "fanart": "",
       "thumbnail": "", 
       "submenu":{"search":""}
