@@ -1,1 +1,26 @@
 
+{
+	"tvshows_list": [
+{
+			"title": "",
+			"year": "",
+			"tmdb_id": "",
+			"fanart": "",
+                        "thumbnail": "",
+			"plot": "",
+			"saga": "",
+			"director": "",
+			"0-9_A-Z": "",
+			"actors": [
+				""
+			],
+			"seasons_list": [
+				{
+					"season": "1",
+					"link": ""
+					
+					}
+			]
+		}
+	]
+}
