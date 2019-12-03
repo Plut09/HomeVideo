@@ -37,7 +37,7 @@
       "submenu":{"search":""}
     },
     {
-      "title": "test{italic}",
+      "title": "test {italic}",
       "plot": "elenco test",
       "link": "/Test.json",
       "fanart": "",
