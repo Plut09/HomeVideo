@@ -6,9 +6,15 @@
        "links": [
            {
             "url": "
-magnet:?xt=urn:btih:A2788A14445FE0469B5280AEFD0F49BC3E5E3FFC
-"
-           }
+magnet:?xt=urn:btih:A2788A14445FE0469B5280AEFD0F49BC3E5E3FFC"
+},
+		{
+			"number": "",
+			"title": "titolo2",
+			"links": [
+				{
+					"url": "magnet:?xt=urn:btih:62C719B48BE58AEF5F04BEB9163798C87F278142"
+				}
         ]
     }
   ]
