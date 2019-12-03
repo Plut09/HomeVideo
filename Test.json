@@ -1,26 +1,15 @@
-
 {
-	"tvshows_list": [
-{
-			"title": "",
-			"year": "",
-			"tmdb_id": "",
-			"fanart": "",
-                        "thumbnail": "",
-			"plot": "",
-			"saga": "",
-			"director": "",
-			"0-9_A-Z": "",
-			"actors": [
-				""
-			],
-			"seasons_list": [
-				{
-					"season": "1",
-					"link": ""
-					
-					}
-			]
-		}
-	]
+  "movies_list": [
+    {
+      "title": "", 
+      "plot": "1418",
+      "year": "2019",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:A2788A14445FE0469B5280AEFD0F49BC3E5E3FFC",
+          "quality":"FHD"
+        }
+      ]
+    }
+  ]
 }
