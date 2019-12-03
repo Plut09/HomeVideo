@@ -35,6 +35,14 @@
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
       "submenu":{"search":""}
+    },
+    {
+      "title": "test{italic}",
+      "plot": "elenco test",
+      "link": "",
+      "fanart": "",
+      "thumbnail": "", 
+      "submenu":{"search":""}
     }
   ]
 }
