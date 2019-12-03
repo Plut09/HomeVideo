@@ -1,12 +1,12 @@
 {
   "tvshows_list": [
-    { "title":"",
+    { "title":"the big bang theory",
       "year":"",
-      "tmdb_id":"",
+      "tmdb_id":"1418",
       "seasons_list": [
         {
           "season": "1",
-          "link": "FILE 4"
+          "link": "/Test_list.json"
         }
       ]
     } 
