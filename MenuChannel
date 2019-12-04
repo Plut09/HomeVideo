@@ -2,11 +2,11 @@
   "channel_name": "HomeVideo",
   "plot": "anteprima pagina",
   "fanart": "/Image/metropolis.jpg",
-  "thumbnail": "La cinematografia, nella sua storia, ha attraversato diverse fasi e periodi, che l'hanno portata dai primi rudimentali "esperimenti" dei fratelli Lumière ai moderni film digitali, ricchi di effetti speciali realizzati principalmente con la grafica computerizzata.",
+  "thumbnail": "",
   "menu": [
     {
       "title": "Film{italic}",
-      "plot": "",
+      "plot": "La cinematografia, nella sua storia, ha attraversato diverse fasi e periodi, che l'hanno portata dai primi rudimentali "esperimenti" dei fratelli Lumière ai moderni film digitali, ricchi di effetti speciali realizzati principalmente con la grafica computerizzata.",
       "link": "/MenuList/Movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
