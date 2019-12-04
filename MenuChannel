@@ -22,8 +22,7 @@
     },
     {
       "title": "Documentari{italic}",
-      "plot": "Il documentario è un'opera audiovisiva i cui elementi narrativi ed espressivi costitutivi sono colti dalla realtà, nel documentario la vicenda narrata, gli ambienti dove si svolge e i personaggi che la interpretano sono reali e agiscono su di un piano di realtà, a differenza del tradizionale cinema di finzione detto anche cinema a soggetto dove invece gli elementi costitutivi sono sostanzialmente costruiti artificiosamente.
-Il documentarista,così viene detto il regista dei film documentari, basa la narrazione e la drammaturgia del film sulla propria visione soggettiva di un determinato aspetto della realtà osservata e sulla sua interpretazione.",
+      "plot": "",
       "link": "/MenuList/Documentari.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
@@ -39,7 +38,7 @@ Il documentarista,così viene detto il regista dei film documentari, basa la nar
      },
      {
       "title": "Anime{italic}",
-      "plot": "Il termine anime, dall'abbreviazione di animēshon, traslitterazione giapponese della parola inglese animation, è un neologismo con cui in Giappone, a partire dalla fine degli anni settanta del XX secolo,si indicano l'animazione e i film d'animazione, fino ad allora chiamati dōga eiga o manga eiga , mentre in Occidente viene comunemente utilizzato per indicare le opere di animazione di produzione giapponese, comprese quelle precedenti l'esordio del lemma stesso. Nonostante un ormai sorpassato luogo comune occidentale che riduce l'animazione giapponese a un prodotto rivolto ad un pubblico infantile o, al contrario, a carattere pornografico, confondendo in entrambi i casi una parte per il tutto, in realtà l'anime è allo stesso tempo un prodotto di intrattenimento commerciale, un fenomeno culturale popolare di massa e una forma d'arte tecnologica. Esso è potenzialmente indirizzato a diverse tipologie di pubblico, dai bambini, agli adolescenti, agli adulti, fino ad arrivare ad una specializzazione del target sostanzialmente mutuata da quella esistente per i manga, con anime concepiti per categorie socio-demografiche specifiche quali impiegati, casalinghe, studenti e altro. Essi possono trattare soggetti, argomenti e generi molto diversi tra loro come amore, avventura, fantascienza, storie per bambini, letteratura, sport, fantasy, erotismo e molto altro ancora",
+      "plot": ",
       "link": "/MenuList/Anime.json",
       "fanart": "",
       "thumbnail": "/Image/Anime.png", 
