@@ -35,6 +35,14 @@
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
       "submenu":{"search":""}
+     },
+     {
+      "title": "Anime{italic}",
+      "plot": "elenco film",
+      "link": "/MenuList/Anime.json",
+      "fanart": "",
+      "thumbnail": "", 
+      "submenu":{"search":""}
     },
     {
       "title": "test {italic}",
