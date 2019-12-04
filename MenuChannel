@@ -6,7 +6,7 @@
   "menu": [
     {
       "title": "Film{italic}",
-      "plot": "elenco film",
+      "plot": "",
       "link": "/MenuList/Movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
@@ -14,15 +14,15 @@
     },
     {
       "title": "Serie{italic}",
-      "plot": "elenco serie tv",
+      "plot": "",
       "link": "/MenuList/Serie.json",
-      "fanart": "",
+      "fanart": "/Image/Anime.png",
       "thumbnail": "/Image/serie3.png", 
       "submenu":{"search":""}
     },
     {
       "title": "Documentari{italic}",
-      "plot": "elenco documentari",
+      "plot": "",
       "link": "/MenuList/Documentari.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
@@ -30,7 +30,7 @@
     },
     {
       "title": "Cartoon{italic}",
-      "plot": "elenco Cartoon",
+      "plot": "",
       "link": "/MenuList/Cartoon.json",
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
@@ -38,7 +38,7 @@
      },
      {
       "title": "Anime{italic}",
-      "plot": "elenco film",
+      "plot": "",
       "link": "/MenuList/Anime.json",
       "fanart": "",
       "thumbnail": "", 
@@ -46,7 +46,7 @@
     },
     {
       "title": "test {italic}",
-      "plot": "elenco test",
+      "plot": "",
       "link": "/Test.json",
       "fanart": "",
       "thumbnail": "", 
