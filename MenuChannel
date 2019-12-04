@@ -7,7 +7,7 @@
     {
       "title": "Film{italic}",
       "plot": "elenco film",
-      "link": "/Movie.json",
+      "link": "/MenuList/Movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
       "submenu":{"search":""}
@@ -15,7 +15,7 @@
     {
       "title": "Serie{italic}",
       "plot": "elenco serie tv",
-      "link": "/Serie.json",
+      "link": "/MenuList/Serie.json",
       "fanart": "",
       "thumbnail": "/Image/serie3.png", 
       "submenu":{"search":""}
@@ -23,7 +23,7 @@
     {
       "title": "Documentari{italic}",
       "plot": "elenco documentari",
-      "link": "/Documentari_info.json",
+      "link": "/MenuList/Documentari.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
       "submenu":{"search":""}
@@ -31,7 +31,7 @@
     {
       "title": "Cartoon{italic}",
       "plot": "elenco Cartoon",
-      "link": "/Cartoon.json",
+      "link": "/MenuList/Cartoon.json",
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
       "submenu":{"search":""}
