@@ -23,7 +23,7 @@
     {
       "title": "Documentari{italic}",
       "plot": "elenco documentari",
-      "link": "/Documentari.json",
+      "link": "/Documentari_info.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
       "submenu":{"search":""}
