@@ -22,7 +22,7 @@
     },
     {
       "title": "test",
-      "link": "/A/serie%20list.json",
+      "link": "/MenuList/A/serie%20list.json",
       "thumbnail": "",
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "genere":"genere", "0-9_A-Z":"alfanumerico"}
     },
