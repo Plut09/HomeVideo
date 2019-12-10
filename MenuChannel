@@ -21,10 +21,10 @@
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "genere":"genere", "0-9_A-Z":"alfanumerico","search":""}
     },
     {
-      "title": "test",
+      "title": "test (submenu)",
       "link": "/MenuList/A/serie%20list.json",
       "thumbnail": "",
-      "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "genere":"genere", "0-9_A-Z":"alfanumerico"}
+      "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "genere":"genere", "0-9_A-Z":"alfanumerico","search":""}
     },
     {
       "title": "Documentari{italic}",
