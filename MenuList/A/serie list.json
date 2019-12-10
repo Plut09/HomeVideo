@@ -13,7 +13,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/Cartoon_list/3x3%20Occhi"
+					"link": "/MenuList/A/12 monkeys.txt"
 				}
 			]
 		},
@@ -30,7 +30,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/1992.json"
 				}
 			]
 		},
@@ -47,7 +47,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/15 love.json"
 				}
 			]
 		},
@@ -64,7 +64,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/1993.json"
 				}
 			]
 		},
@@ -81,7 +81,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/"
 				}
 			]
 		},
@@ -98,7 +98,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/2 Broke Girls.json"
 				}
 			]
 		},
@@ -115,7 +115,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/24.json"
 				}
 			]
 		},
@@ -132,7 +132,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/3 cuori in affitto.json"
 				}
 			]
 		},
@@ -149,7 +149,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/30 Rock.json"
 				}
 			]
 		},
@@ -166,7 +166,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/666 Park Avenue.json"
 				}
 			]
 		},
@@ -183,7 +183,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/90210.json"
 				}
 			]
 		},
@@ -200,7 +200,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/9-1-1.json"
 				}
 			]
 		},
@@ -217,7 +217,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/100 Code - The Hundred Code.json"
 				}
 			]
 		},
@@ -234,7 +234,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/11 settembre - Tragedia annunciata.json"
 				}
 			]
 		},
@@ -251,7 +251,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/22.11.63"
 				}
 			]
 		},
@@ -268,7 +268,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/3% - 3 Percente S01-03e01-26.json"
 				}
 			]
 		},
@@ -285,7 +285,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/7 Days.json"
 				}
 			]
 		},
@@ -302,7 +302,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/8 semplici regole.json"
 				}
 			]
 		},
@@ -319,24 +319,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
-				}
-			]
-		},
-		{
-			"title": "",
-			"year": "",
-			"tmdb_id": "",
-			"genere": "",
-			"director": "",
-			"0-9_A-Z": "09",
-			"actors": [
-				""
-			],
-			"seasons_list": [
-				{
-					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/8 Sotto Un Tetto - Family Matters.json"
 				}
 			]
 		},
@@ -353,7 +336,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": ""
+					"link": "/MenuList/A/800 Words.json"
 				}
 			]
 		}
