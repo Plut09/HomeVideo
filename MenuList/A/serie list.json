@@ -13,7 +13,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/12 monkeys.txt"
+					"link": "/MenuList/A/12%20monkeys.txt"
 				}
 			]
 		},
@@ -47,7 +47,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/15 love.json"
+					"link": "/MenuList/A/15%20love.json"
 				}
 			]
 		},
@@ -81,7 +81,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/"
+					"link": "/MenuList/A/2%20Broke%20Girls.json"
 				}
 			]
 		},
@@ -98,7 +98,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/2 Broke Girls.json"
+					"link": "/MenuList/A/24%20Legacy.json"
 				}
 			]
 		},
@@ -132,7 +132,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/3 cuori in affitto.json"
+					"link": "/MenuList/A/3%20cuori%20in%20affitto.json"
 				}
 			]
 		},
@@ -149,7 +149,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/30 Rock.json"
+					"link": "/MenuList/A/30%20Rock.json"
 				}
 			]
 		},
@@ -166,7 +166,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/666 Park Avenue.json"
+					"link": "/MenuList/A/666%20Park%20Avenue.json"
 				}
 			]
 		},
@@ -217,7 +217,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/100 Code - The Hundred Code.json"
+					"link": "/MenuList/A/100%20Code%20-%20The%20Hundred%20Code.json"
 				}
 			]
 		},
@@ -234,7 +234,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/11 settembre - Tragedia annunciata.json"
+					"link": "/MenuList/A/11%20settembre%20-%20Tragedia%20annunciata.json"
 				}
 			]
 		},
@@ -268,7 +268,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/3% - 3 Percente S01-03e01-26.json"
+					"link": "//MenuList/A/3%25%20-%203%20Percente%20S01-03e01-26.json"
 				}
 			]
 		},
@@ -285,7 +285,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/7 Days.json"
+					"link": "/MenuList/A/7%20Days.json"
 				}
 			]
 		},
@@ -302,7 +302,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/8 semplici regole.json"
+					"link": "/MenuList/A/8%20semplici%20regole.json"
 				}
 			]
 		},
@@ -319,7 +319,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/8 Sotto Un Tetto - Family Matters.json"
+					"link": "/MenuList/A/8%20Sotto%20Un%20Tetto%20-%20Family%20Matters.json"
 				}
 			]
 		},
@@ -336,7 +336,7 @@
 			"seasons_list": [
 				{
 					"season": "1",
-					"link": "/MenuList/A/800 Words.json"
+					"link": "/MenuList/A/800%20Words.json"
 				}
 			]
 		}
