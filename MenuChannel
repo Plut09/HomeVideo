@@ -22,7 +22,7 @@
     },
     {
       "title": "test (Submenu)",
-      "link": "/TvShows_list",
+      "link": "/A/serie%20list.json",
       "thumbnail": "",
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "0-9_A-Z":"alfanumerico"}
     },
