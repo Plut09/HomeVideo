@@ -10,7 +10,7 @@
       "link": "/MenuList/Movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
-      "submenu":{"search":""}
+      "level2":{"search":""}
     },
     {
       "title": "Serie{italic}",
@@ -18,7 +18,7 @@
       "link": "/MenuList/Serie.json",
       "fanart": "",
       "thumbnail": "/Image/serie3.png", 
-      "submenu":{"search":""}
+      "level2":{"search":""}
     },
         {
       "title": "Documentari{italic}",
@@ -26,7 +26,7 @@
       "link": "/MenuList/Documentari.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
-      "submenu":{"search":""}
+      "level2":{"search":""}
     },
     {
       "title": "Cartoon{italic}",
@@ -34,7 +34,7 @@
       "link": "/MenuList/Cartoon.json",
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
-      "submenu":{"search":""}
+      "level2":{"search":""}
      },
      {
       "title": "Anime{italic}",
@@ -42,7 +42,7 @@
       "link": "/MenuList/Anime.json",
       "fanart": "",
       "thumbnail": "/Image/Anime.png", 
-      "submenu":{"search":""}
+      "level2":{"search":""}
         }
   ]
 }
