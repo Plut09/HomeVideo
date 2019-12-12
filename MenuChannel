@@ -5,7 +5,7 @@
   "thumbnail": "",
   "menu": [
     {
-      "title": "Film{italic}",
+      "title": "Film {italic}",
       "plot": "La cinematografia, nella sua storia, ha attraversato diverse fasi e periodi, che l'hanno portata dai primi rudimentali esperimenti dei fratelli Lumière ai moderni film digitali, ricchi di effetti speciali realizzati principalmente con la grafica computerizzata.",
       "link": "/MenuList/Movie.json",
       "fanart": "",
@@ -13,7 +13,7 @@
       "level2":{"search":""}
     },
     {
-      "title": "Serie{italic}",
+      "title": "Serie {italic}",
       "plot": "La serie televisiva è un'opera composta da episodi, ovvero segmenti narrativi con trame prevalentemente chiuse, personaggi solitamente fissi e set ricorrenti.Se inizialmente le prime serie TV degli anni cinquanta e sessanta erano caratterizzate da una struttura narrativa esclusivamente episodica, cioè con trame diverse per ogni episodio, nel tempo, in particolare dagli anni ottanta, si è assistito a una transizione verso opere che sempre più frequentemente includevano anche una trama orizzontale, la quale coinvolgeva i protagonisti nell'arco di più episodi, includendo quindi elementi tipici dei serial. Alcuni commentatori pertanto parlano di serie episodiche classiche o di serie classiche per distinguere la forma originariamente più comune di serie televisiva dalle più recenti serie con una più o meno marcata trama orizzontale, da Milly Buonanno chiamate anche serie serializzate per sottolineare la commistione di generi. Quando una serie presenta episodi o, per estensione, stagioni che in comune non hanno neanche personaggi e ambientazioni, si parla invece di serie antologiche.",
       "link": "/MenuList/Serie.json",
       "fanart": "",
@@ -21,7 +21,7 @@
       "level2":{"search":""}
     },
         {
-      "title": "Documentari{italic}",
+      "title": "Documentari {italic}",
       "plot": "Il documentario è un'opera audiovisiva i cui elementi narrativi ed espressivi costitutivi sono colti dalla realtà, nel documentario la vicenda narrata, gli ambienti dove si svolge e i personaggi che la interpretano sono reali e agiscono su di un piano di realtà, a differenza del tradizionale cinema di finzione (detto anche cinema a soggetto) dove invece gli elementi costitutivi sono sostanzialmente costruiti artificiosamente.Il documentarista (così viene detto il regista dei film documentari) basa la narrazione e la drammaturgia del film sulla propria visione soggettiva di un determinato aspetto della realtà osservata e sulla sua interpretazione.",
       "link": "/MenuList/Documentari.json",
       "fanart": "",
@@ -29,7 +29,7 @@
       "level2":{"search":""}
     },
     {
-      "title": "Cartoon{italic}",
+      "title": "Cartoon {italic}",
       "plot": "Un cartone animato, anche abbreviato in cartone, o più raramente disegno animato o cartoon (termine invariato al plurale), è un'opera audiovisiva d'animazione.I cartoni animati vengono realizzati per il cinema, la televisione, per il mercato home video e negli ultimi anni, anche per il web.Il termine cartone animato (plurale: cartoni animati) deriva dall'italianizzazione del corrispondente termine inglese animated cartoon. Il termine cartoon, abbreviato anche toon, diffuso anche nella lingua italiana come sinonimo di cartone animato, è a sua volta derivato dall'italiano cartone con riferimento ai disegni preparatori per arazzi e affreschi, e nella lingua inglese nasce per designare le vignette umoristiche presenti nei giornali. Fu utilizzato in questo senso per la prima volta nel 1843 nella rivista Punch.Il termine disegno animato (plurale: disegni animati) è meno diffuso nella lingua italiana, ma parole imparentate si sono affermate nelle altre lingue romanze: portoghese desenho animado, spagnolo dibujo animado, francese dessin animé, rumeno desene animate.Ultimamente i termini cartone animato e cartoon trovano impiego in campo pubblicitario anche nella descrizione di serie dal vero, e non animate.Termini più tecnici per indicare un cartone animato sono cortometraggio d'animazione e lungometraggio d'animazione.",
       "link": "/MenuList/Cartoon.json",
       "fanart": "",
@@ -37,7 +37,7 @@
       "level2":{"search":""}
      },
      {
-      "title": "Anime{italic}",
+      "title": "Anime {italic}",
       "plot": "Il termine anime, dall'abbreviazione di animēshon, traslitterazione giapponese della parola inglese animation è un neologismo con cui in Giappone, a partire dalla fine degli anni settanta del XX secolo,si indicano l'animazione e i film d'animazione , fino ad allora chiamati dōga eiga o manga eiga , mentre in Occidente viene comunemente utilizzato per indicare le opere di animazione di produzione giapponese, comprese quelle precedenti l'esordio del lemma stesso. Nonostante un ormai sorpassato luogo comune occidentale che riduce l'animazione giapponese a un prodotto rivolto ad un pubblico infantile in realtà l'anime è allo stesso tempo un prodotto di intrattenimento commerciale, un fenomeno culturale popolare di massa e una forma d'arte tecnologica. Esso è potenzialmente indirizzato a diverse tipologie di pubblico, dai bambini, agli adolescenti, agli adulti, fino ad arrivare ad una specializzazione del target sostanzialmente mutuata da quella esistente per i manga, con anime concepiti per categorie socio-demografiche specifiche quali impiegati, casalinghe, studenti e altro. Essi possono trattare soggetti, argomenti e generi molto diversi tra loro come amore, avventura, fantascienza, storie per bambini, letteratura, sport, fantasy, erotismo e molto altro ancora",
       "link": "/MenuList/Anime.json",
       "fanart": "",
