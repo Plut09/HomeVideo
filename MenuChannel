@@ -10,7 +10,7 @@
       "link": "/MenuList/movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
-      "level2":{"search":"", "year":"year"}
+      "level2":{"search":""}
     },
     {
       "title": "Serie {italic}",
