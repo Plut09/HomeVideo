@@ -8,10 +8,10 @@
       "title": "Film {italic}",
       "plot": "La cinematografia, nella sua storia, ha attraversato diverse fasi e periodi, che l'hanno portata dai primi rudimentali esperimenti dei fratelli Lumière ai moderni film digitali, ricchi di effetti speciali realizzati principalmente con la grafica computerizzata.",
       "link": "/MenuList/movie.json",
-      "year": "anno", 
+       
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
-      "level2":{"search":""}
+      "level2":{"search":"","year": "Anno", }
     },
     {
       "title": "Serie {italic}",
