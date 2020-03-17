@@ -2,7 +2,7 @@
   "channel_name": "HomeVideo",
   "plot": "anteprima pagina",
   "fanart": "/Image/metropolis.jpg",
-  "thumbnail": "",
+  "thumbnail": "/Image/metropolis.jpg",
   "menu": [
     {
       "title": "Film {italic}",
