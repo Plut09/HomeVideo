@@ -18,7 +18,7 @@
       "link": "/MenuList/Serie.json",
       "fanart": "",
       "thumbnail": "/Image/serie3.png", 
-      "level2":{"search":""}
+      "level2":{"search":"", "year":"Anno"}
     },
     {
       "title": "Cartoon {italic}",
