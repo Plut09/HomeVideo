@@ -10,7 +10,7 @@
       "link": "/MenuList/movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
-      "level2":{"search":""}
+      "level2":{"search":"", "year":"Anno"}
     },
     {
       "title": "Serie {italic}",
@@ -26,7 +26,7 @@
       "link": "/MenuList/Cartoni.json",
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
-      "level2":{"search":""}
+      "level2":{"search":"", "year":"Anno"}
      },
      {
       "title": "Anime {italic}",
@@ -34,7 +34,7 @@
       "link": "/MenuList/Anime.json",
       "fanart": "",
       "thumbnail": "/Image/Anime.png", 
-      "level2":{"search":""}
+      "level2":{"search":"", "year":"Anno"}
       }, 
        {
       "title": "Documentari {italic}",
@@ -42,7 +42,7 @@
       "link": "/MenuList/Documentari.json",
       "fanart": "",
       "thumbnail": "/Image/documentari1.png", 
-      "level2":{"search":""}
+      "level2":{"search":"", "year":"Anno"}
       },
       {
       "title": "Teatro {italic}",
@@ -50,7 +50,7 @@
       "link": "/MenuList/Teatro.json",
       "fanart": "",
       "thumbnail": "/Image/teatro.png", 
-      "level2":{"search":""}
+      "level2":{"search":"", "year":"Anno"}
          }
   ]
 }
