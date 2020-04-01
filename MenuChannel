@@ -23,7 +23,7 @@
     {
       "title": "Cartoon {italic}",
       "plot": "Un cartone animato, anche abbreviato in cartone, o più raramente disegno animato o cartoon (termine invariato al plurale), è un'opera audiovisiva d'animazione.I cartoni animati vengono realizzati per il cinema, la televisione, per il mercato home video e negli ultimi anni, anche per il web.Il termine cartone animato (plurale: cartoni animati) deriva dall'italianizzazione del corrispondente termine inglese animated cartoon. Il termine cartoon, abbreviato anche toon, diffuso anche nella lingua italiana come sinonimo di cartone animato, è a sua volta derivato dall'italiano cartone con riferimento ai disegni preparatori per arazzi e affreschi, e nella lingua inglese nasce per designare le vignette umoristiche presenti nei giornali. Fu utilizzato in questo senso per la prima volta nel 1843 nella rivista Punch.Il termine disegno animato (plurale: disegni animati) è meno diffuso nella lingua italiana, ma parole imparentate si sono affermate nelle altre lingue romanze: portoghese desenho animado, spagnolo dibujo animado, francese dessin animé, rumeno desene animate.Ultimamente i termini cartone animato e cartoon trovano impiego in campo pubblicitario anche nella descrizione di serie dal vero, e non animate.Termini più tecnici per indicare un cartone animato sono cortometraggio d'animazione e lungometraggio d'animazione.",
-      "link": "/MenuList/Cartoni.json",
+      "link": "/MenuList/cartoon.json",
       "fanart": "",
       "thumbnail": "/Image/Cartoon.png", 
       "level2":{"search":"", "year":"Anno"}
