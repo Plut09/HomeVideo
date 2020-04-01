@@ -10,7 +10,7 @@
       "link": "/MenuList/movie.json",
       "fanart": "",
       "thumbnail": "/Image/film3.png", 
-      "level2":{"search":"", "year":"Anno"}
+      "level2":{"search":"", "actors":"", "director":"", "year":"Anno", "genere":""}
     },
     {
       "title": "Serie {italic}",
