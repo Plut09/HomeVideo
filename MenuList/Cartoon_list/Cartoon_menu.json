@@ -3,22 +3,15 @@
       {
       "plot": "", 
         "title": "Cartoon",
-        "link": "",
+        "link": "/MenuList/Cartoon_list/cartoon.json",
         "fanart": "",
         "thumbnail": ""
       },
       {
         "plot": "", 
         "title": "Serie Cartoon",
-        "link": "",
+        "link": "/MenuList/Cartoon_list/cartoon_serie.json",
         "fanart": "", 
-        "thumbnail": ""
-      },
-      {
-        "plot": "",
-        "title": "",
-        "link": "",
-        "fanart": "",
         "thumbnail": ""
       }
     ]
