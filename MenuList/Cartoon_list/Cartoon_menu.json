@@ -1,0 +1,25 @@
+{
+    "menu": [
+      {
+      "plot": "", 
+        "title": "Cartoon",
+        "link": "",
+        "fanart": "",
+        "thumbnail": ""
+      },
+      {
+        "plot": "", 
+        "title": "Serie Cartoon",
+        "link": "",
+        "fanart": "", 
+        "thumbnail": ""
+      },
+      {
+        "plot": "",
+        "title": "",
+        "link": "",
+        "fanart": "",
+        "thumbnail": ""
+      }
+    ]
+  }
