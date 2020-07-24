@@ -1,6 +1,6 @@
 {
   "channel_name": "HomeVideo",
-  "plot": "Per usufruire dei contenuti presenti su questo CC, necessita l'installazione dell'ADDON ELEMENTUM. E' da tener conto che la velocità di download dipenderà dalla vostra connessione, dalla dimensione del file/qualità e sopratutto dal numero di seed. ",
+  "plot": "Per usufruire dei contenuti presenti su questo CC, necessita l'installazione dell'ADDON ELEMENTUM. E' da tener conto che la velocità di download dipenderà dalla vostra connessione, dal file dimensione/qualità e sopratutto dal numero di seed. ",
   "fanart": "/Image/metropolis.jpg",
   "thumbnail": "/Image/metropolis.png",
   "menu": [
